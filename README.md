@@ -1,6 +1,5 @@
 # 🌱 Smart Plant Monitoring System (ESP32 + IoT)
-A Smart Plant Monitoring System built using an ESP32 microcontroller that monitors environmental conditions around a plant and allows remote monitoring and control through the Blynk IoT platform. The system measures temperature, humidity, soil moisture, and motion detection, and displays the data on an OLED screen while also sending it to a mobile dashboard.
-
+A Smart Plant Monitoring System built using an ESP32 microcontroller that monitors environmental conditions around a plant and allows remote monitoring and control through the Blynk IoT platform. The system measures temperature, humidity, soil moisture, and motion detection, and displays the data on an OLED screen while also sending it to a mobile dashboard.<br>
 This project demonstrates a complete IoT-based plant monitoring and control system, integrating sensors, cloud connectivity, and a user interface.
 
 # 📌 Features
