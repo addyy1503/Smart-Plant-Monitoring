@@ -43,5 +43,6 @@ This project demonstrates a complete IoT-based plant monitoring and control syst
 ![Dashboard](Images/Dashboard.png)
 
 ## Mobile UI
-
-![Mobile-Dashboard](Images/Mobile-UI.png)
+<p align="center">
+  <img src="Images/Mobile-UI.png" width="300">
+</p>
