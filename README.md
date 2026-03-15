@@ -31,3 +31,17 @@ This project demonstrates a complete IoT-based plant monitoring and control syst
 4. Sensor values are sent to the Blynk IoT dashboard.<br>
 5. Users can monitor the plant remotely via smartphone.<br>
 6. The relay can activate a water pump for irrigation.<br>
+
+# 📷 Project Demonstration
+
+## Circuit Diagram
+
+![Circuit](Images/Circuit.png)
+
+## Blynk Dashboard
+
+![Dashboard](Images/Dashboard.png)
+
+## Mobile UI
+
+![Mobile-Dashboard](Images/Mobile-UI.png)
